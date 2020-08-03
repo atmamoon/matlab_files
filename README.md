@@ -1,2 +1,2 @@
 # matlab_files
-Contains useful matlab.m files.
+Contains solution of an assignment.
